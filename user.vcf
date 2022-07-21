@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:kit@womb.com.sg
 TEL;type=WORK;type=VOICE:+65 9681 6833
 item1.ADR;type=WORK;type=pref:;;1002 Jalan Bukit Merah\nMapletree Industries\, 06-17;;;159456;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:womb.com.sg
+item2.URL;type=pref:www.womb.com.sg
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
